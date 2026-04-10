@@ -20,7 +20,7 @@ Press **F4** to toggle the panel (shows cursor while open, re-captures on close)
 
 ## Install
 
-1. Install https://modworkshop.net/mod/55623
+1. Install <https://modworkshop.net/mod/55623>
 2. Add `DebugMenu.vmz` to your `mods` folder
 
 ## Building
@@ -29,4 +29,4 @@ Press **F4** to toggle the panel (shows cursor while open, re-captures on close)
 
 ## Contributing
 
-If you have an idea, happy to add your feature!
+If you have an idea, happy to add your feature! Fork and make a PR.
